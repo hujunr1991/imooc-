@@ -6,3 +6,5 @@ include 'entity'
 include 'api'
 include 'manager'
 include 'seller'
+include 'swagger'
+
